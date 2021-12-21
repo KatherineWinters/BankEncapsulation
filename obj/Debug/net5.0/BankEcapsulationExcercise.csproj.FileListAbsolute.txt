@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\BankEcapsulationExcercise.exe
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\BankEcapsulationExcercise.deps.json
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\BankEcapsulationExcercise.runtimeconfig.json
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\BankEcapsulationExcercise.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\BankEcapsulationExcercise.dll
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\ref\BankEcapsulationExcercise.dll
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\bin\Debug\net5.0\BankEcapsulationExcercise.pdb
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.dll
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\ref\BankEcapsulationExcercise.dll
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.pdb
+C:\Users\PC\Desktop\C# Repos\BankEcapsulationExcercise\BankEcapsulationExcercise\obj\Debug\net5.0\BankEcapsulationExcercise.genruntimeconfig.cache
